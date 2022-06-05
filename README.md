@@ -3,6 +3,8 @@
 
 [![Foodium App](https://img.shields.io/badge/NotesApp🗒️-APK-red.svg?style=for-the-badge&logo=android)]()
 
+## ScreenShots
+
 
 ## About
 We can simply create , add & delete **Notes** and stores it in persistence storage (i.e. SQLite Database). Notes will be always loaded from local room database. Local data is always synchronized. 
