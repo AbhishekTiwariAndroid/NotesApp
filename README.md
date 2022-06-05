@@ -6,6 +6,10 @@
 ## ScreenShots
 
 
+
+ <img src="https://user-images.githubusercontent.com/42689087/172053840-f707a3dc-a797-4428-a4b5-b5b4306d80f3.png" width=300 height=600>
+
+
 ## About
 We can simply create , add & delete **Notes** and stores it in persistence storage (i.e. SQLite Database). Notes will be always loaded from local room database. Local data is always synchronized. 
 - This makes it offline capable 😃. 
