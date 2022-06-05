@@ -1,7 +1,7 @@
 # NotesApp
 ***You can Install and test latest Notes app from below 👇***
 
-[![Foodium App](https://img.shields.io/badge/NotesApp🗒️-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/abhishektiwari444/NotesApp/blob/master/app-debug.apk))
+[![Foodium App](https://img.shields.io/badge/NotesApp🗒️-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/abhishektiwari444/NotesApp/blob/master/app-debug.apk)
 
 ## ScreenShots
 
